@@ -1,3 +1,26 @@
+//experiment 1
+/*Medium Level
+Problem Statement: Write a Java program to perform matrix operations (addition, subtraction, and multiplication) on two matrices provided by the user. The program should:
+- Check the dimensions of the matrices to ensure valid operations.
+
+Input Example:
+Matrix 1:
+1 2
+3 4
+Matrix 2:
+5 6
+7 8
+Output Example:
+Addition:
+6 8
+10 12
+Subtraction:
+-4 -4
+-4 -4
+Multiplication:
+19 22
+43 50
+ */
 import java.util.Scanner;
 
 public class matrix{

@@ -1,3 +1,15 @@
+//experiment 1
+/*Easy Level
+Problem Statement: Write a Java program to analyze a string input by the user. The program should:
+Count the number of vowels, consonants, digits, and special characters in the string.
+Input Example:
+Enter a string: Hello World 2024!
+Output Example:
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 3
+ */
 import java.util.Scanner;
 
 public class countstring {
